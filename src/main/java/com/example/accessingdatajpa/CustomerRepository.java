@@ -1,3 +1,5 @@
+//This is a simple CrudRepository, which is an interface that allows us to do CRUD (create, read, update, delete) operations.
+
 package com.example.accessingdatajpa;
 
 import java.util.List;
